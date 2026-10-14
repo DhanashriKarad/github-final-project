@@ -41,3 +41,5 @@ SI = (10,000 × 5 × 2) / 100 = ₹1,000
 
 ## License
 This project is available for educational purposes.
+
+Typo fix: corrected wording in README (branch: bug-fix-typo).
